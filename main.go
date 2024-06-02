@@ -9,5 +9,6 @@ func main() {
 	// fmt.Println(twoSum([]int{2, 7, 11, 15}, 9))
 	// fmt.Println(majorityElement([]int{3, 2, 3}))
 	// fmt.Println(isValid("()"))
+	// fmt.Println(isPalindrome("race a car"))
 
 }
