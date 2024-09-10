@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 
 	// arr := []int{1, 2, 3, 4}
@@ -10,5 +12,9 @@ func main() {
 	// fmt.Println(majorityElement([]int{3, 2, 3}))
 	// fmt.Println(isValid("()"))
 	// fmt.Println(isPalindrome("race a car"))
+
+	// fmt.Println(containsDuplicate([]int{1, 2, 3, 2}))
+
+	fmt.Println(groupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"}))
 
 }
